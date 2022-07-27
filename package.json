@@ -1,0 +1,37 @@
+{
+	"name": "@antandrieux/hardhat-test-generator",
+	"author": "Antoine Andrieux <antoine@avelee.io>",
+	"version": "1.0.0",
+	"description": "A unit test generator for the Hardhat framework",
+	"bin": {
+		"htg": "generate.js"
+	},
+	"keywords": [
+		"solidity",
+		"hardhat",
+		"test",
+		"generator",
+		"blockchain",
+		"ethereum",
+		"polygon"
+	],
+	"homepage": "https://www.linkedin.com/in/antoine-andrieux/",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/antandrieux/hardhat-test-generator.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"fs": "0.0.1-security",
+		"commander": "^9.2.0",
+		"hardhat": "^2.10.1",
+		"chai": "^4.3.6"
+	},
+	"bugs": {
+		"url": "https://github.com/antandrieux/hardhat-test-generator/issues"
+	},
+	"main": "generate.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
