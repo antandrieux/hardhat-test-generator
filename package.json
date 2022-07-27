@@ -1,7 +1,7 @@
 {
 	"name": "@antandrieux/hardhat-test-generator",
 	"author": "Antoine Andrieux <antoine@avelee.io>",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A unit test generator for the Hardhat framework",
 	"bin": {
 		"htg": "generate.js"
